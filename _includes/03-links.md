@@ -1,2 +1,2 @@
-(https://github.com/Buthynah)
-A
+[github](https://github.com/Buthynah)
+
